@@ -2,3 +2,9 @@ welcome to CSE
 The cousers available are:
 DSP
 OS
+JAVA
+SE
+
+
+Thank YOu 
+With Regards!!!
