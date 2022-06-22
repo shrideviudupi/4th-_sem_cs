@@ -1,0 +1,4 @@
+welcome to CSE
+The cousers available are:
+DSP
+OS
